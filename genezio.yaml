@@ -1,0 +1,8 @@
+name: ecommerce-nextjs
+region: us-east-1
+yamlVersion: 2
+nextjs:
+  path: .
+  packageManager: npm
+  scripts:
+    deploy: npm install

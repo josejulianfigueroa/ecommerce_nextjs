@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@expo/html-elements": "^0.4.2",
+    "@genezio/nextjs-isr-us-east-1": "^1.0.6",
     "@gluestack-ui/avatar": "^0.1.17",
     "@gluestack-ui/button": "^1.0.7",
     "@gluestack-ui/form-control": "^0.1.18",
